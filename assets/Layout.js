@@ -22,7 +22,7 @@ export default class Layout extends React.Component {
                         <div style={{ flex: 2, display: "flex" }}>
                             <a style={{ marginRight: "10px"}} href="https://blog.pradyungn.tech">Blog</a>
                             <Link href="/work"><a>Work</a></Link>
-                            <a href="/static/resume.pdf" style={{marginLeft:"10px"}}>Resume</a>
+                            <a href="/static/Resume.pdf" style={{marginLeft:"10px"}}>Resume</a>
                        </div>
                     </div>
                     <div id="main" style={{ display: "inline" }}>
