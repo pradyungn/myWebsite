@@ -14,6 +14,7 @@ export default class Layout extends React.Component {
                         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                         <meta name="og:title" content="Pradyun N." />
                         <meta name="og:description" content="Who called the geek squad?" />
+                        <meta name="og:image" content="https://www.pradyungn.tech/static/me.jpg" />
                     </Head>
                     <div className="header">
                         <a href="/" style={{ flex: 1, textAlign: "center" }}>@pradyungn</a>
